@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "FrequencyChanger",
+  "version": "1.0.2",
+  "description": "Make reading fun again",
+  "permissions": [
+    "tabs", "<all_urls>"
+  ],
+  "icons": {
+    "128": "Images/beau_pepe_glowing.png",
+    "48": "Images/beau_pepe_glowing.png",
+    "16": "Images/beau_pepe_glowing.png"
+  },
+
+  "browser_action": {
+    "default_title": "Makes reading great again",
+    "default_icon": "Images/beau_pepe_glowing.png" ,
+    "default_popup": "popup.html"
+    }
+}
