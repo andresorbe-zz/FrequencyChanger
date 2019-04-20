@@ -5,4 +5,8 @@ i.e
 
 CHangEs The fREQuEnCY OF uPpeRCAse and LoWErCaSe LeTTErs On ALL tHe TexT ON A WEBPage
 
+![Before](https://imagebin.ca/v/4eO91yvy0sAA)
+
+
+
 
